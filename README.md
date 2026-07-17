@@ -9,5 +9,5 @@ A clean, object-oriented implementation of a single neuron built from scratch us
 - **Live Training Simulation:** Demonstrates the loss converging over epochs dynamically inside Jupyter Notebook.
 
 ## How to Run
-1. Download the notebook file: `neural-network-from-scratch (1).ipynb`
+1. Download the notebook file: `single_neuron.ipynb`
 2. Open it using Jupyter Notebook or VS Code to see the live execution.
